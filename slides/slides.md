@@ -48,36 +48,14 @@ It’s a Model-View-ViewModel (MVVM) framework for JavaScript/HTML.
 
 !SLIDE
 
-やってみましょう
+# やってみましょう
+
+<a href="../root/index.html">Go To Demo!!</a>
 
 !SLIDE
 
-    <!doctype html>
-    <html lang="ja">
-    <head>
-      <meta charset="utf-8">
-      <title></title>
-      <link rel="stylesheet" href="css/style.css">
-    </head>
-    <body>
-      <div id="container">
-        The name is <span data-bind="text: personName"></span>
-      </div>
-      <script src="js/libs/jquery-1.6.1.min.js"></script>
-      <script src='js/libs/jquery-tmpl.js'></script>
-      <script src="js/libs/knockout-1.2.1.debug.js"></script>
-      <script>
-      var myViewModel = {
-          personName: 'Bob',
-          personAge: 123
-      };
-      ko.applyBindings(viewModel);
-      </script>
-    </body>
-    </html>
+# まとめ
 
-!SLIDE
-
-以下demoページへ
-
-
+ * プログラマはエコ
+ * だが複数人が集まると途端にエコでなくなる
+ * 複数人が集まってもエコできるようにFrameWork!!

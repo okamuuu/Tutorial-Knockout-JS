@@ -1,4 +1,4 @@
-変換
-----
+Tutorial-Knockout-JS
+====================
 
-http://diaspar-journal.blogspot.com/2006/05/htmlhtml.html
+jQueryを使える人が複数人で作業する場合、記述方法をどうやって統一するのかという問題に対してFrameWorkを使う、という選択肢がいいのではないかと思ったので練習しています
